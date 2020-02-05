@@ -11,12 +11,13 @@
   * [x] connect to a data source
   * [ ] make it sortable
   * [ ] make it searchable
+  * [ ] make it paginated
 * Create a form:
   * [x] input
   * [x] textarea
   * [x] select
   * [x] checkbox
-  * [ ] datepicker
+  * [x] datepicker
 * Get form data from:
   * [ ] input
   * [ ] textarea
