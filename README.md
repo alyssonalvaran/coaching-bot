@@ -34,7 +34,7 @@
 ### Phase 3: Make it work
 
 * Clear form after:
-  * [ ] successfully adding a member
+  * [x] successfully adding a member
   * [ ] successfully adding a sprint
   * [ ] successfully adding feedback
 * Add form validation
