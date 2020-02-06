@@ -3,6 +3,9 @@
 * [Link to codesandbox](https://codesandbox.io/s/modest-einstein-yljkn)
 
 ## Tasks
+
+### Phase 1: Learn how it works
+
 * Using `CoachingBotService`:
   * [x] display data
   * [x] add data
@@ -24,3 +27,9 @@
   * [ ] select
   * [ ] checkbox
   * [ ] datepicker
+
+### Phase 2: Design interface
+
+### Phase 3: Make it work
+
+### Phase 4: Clean code
