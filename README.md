@@ -47,3 +47,10 @@
   * [ ] unsuccessfully adding feedback
 
 ### Phase 4: Clean code
+
+## References
+
+* https://angular.io/start
+* https://material.angular.io/components/categories
+* https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+* https://github.com/angular/flex-layout
