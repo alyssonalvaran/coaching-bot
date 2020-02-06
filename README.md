@@ -1,6 +1,6 @@
 # coaching-bot
 * [Instructions](https://gist.github.com/nmcapule/9e25c9c1bed0ac33badff84b322ad051)
-* [Link to codesandbox](https://codesandbox.io/s/thirsty-torvalds-e48wh)
+* [Link to codesandbox](https://codesandbox.io/s/modest-einstein-yljkn)
 
 ## Tasks
 * Using `CoachingBotService`:
@@ -9,8 +9,8 @@
   * [x] edit data
 * Create a data table and:
   * [x] connect to a data source
-  * [ ] make it sortable
-  * [ ] make it searchable
+  * [x] make it sortable
+  * [x] make it searchable
   * [ ] make it paginated
 * Create a form:
   * [x] input
