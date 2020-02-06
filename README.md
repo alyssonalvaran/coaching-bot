@@ -22,10 +22,10 @@
   * [x] checkbox
   * [x] datepicker
 * Get form data from:
-  * [ ] input
+  * [x] input
   * [ ] textarea
-  * [ ] select
-  * [ ] checkbox
+  * [x] select
+  * [x] checkbox
   * [ ] datepicker
 
 ### Phase 2: Design interface
