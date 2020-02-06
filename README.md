@@ -36,12 +36,13 @@
   * [ ] successfully adding a member
   * [ ] successfully adding a sprint
   * [ ] successfully adding feedback
+* Add form validation
 * Add snackbars after:
- * [ ] successfully adding a member
- * [ ] unsuccessfully adding a member
- * [ ] successfully adding a sprint
- * [ ] unsuccessfully adding a sprint
- * [ ] successfully adding feedback
- * [ ] unsuccessfully adding feedback
+  * [ ] successfully adding a member
+  * [ ] unsuccessfully adding a member
+  * [ ] successfully adding a sprint
+  * [ ] unsuccessfully adding a sprint
+  * [ ] successfully adding feedback
+  * [ ] unsuccessfully adding feedback
 
 ### Phase 4: Clean code
