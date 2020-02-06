@@ -15,6 +15,7 @@
   * [x] make it sortable
   * [x] make it searchable
   * [ ] make it paginated
+  * [ ] make it selectable
 * Create a form:
   * [x] input
   * [x] textarea
