@@ -13,6 +13,14 @@
 
 ### Typography
 
+## Frontend Architecture
+
+### Modules
+
+### Components
+
+### Services
+
 ## Built With
 
 * [TypeScript](https://www.typescriptlang.org/)
