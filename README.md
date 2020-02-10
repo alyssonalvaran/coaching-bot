@@ -48,9 +48,9 @@
 
 ### Phase 4: Clean code
 
-## References
+## Built With
 
-* https://angular.io/start
-* https://material.angular.io/components/categories
-* https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
-* https://github.com/angular/flex-layout
+* [TypeScript](https://www.typescriptlang.org/)
+* [Angular](https://angular.io/)
+* [Angular Material](https://material.angular.io/)
+* [Bootstrap](https://getbootstrap.com/)
